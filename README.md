@@ -43,7 +43,7 @@ Clone this repository into your Codex skills directory:
 
 ```bash
 mkdir -p ~/.codex/skills
-git clone https://github.com/Shadow1125/codex-session-manager.git ~/.codex/skills/codex-session-manager
+git clone https://github.com/Hachiware1125/codex-session-manager.git ~/.codex/skills/codex-session-manager
 ```
 
 After installation, ask Codex to use `codex-session-manager` when you want to list, search, inspect, or safely delete local Codex sessions.
