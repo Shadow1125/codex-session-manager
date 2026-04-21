@@ -1,4 +1,4 @@
 interface:
   display_name: "Codex Sessions"
-  short_description: "List, search, and safely delete sessions"
-  default_prompt: "Use $codex-session-manager to list my local Codex sessions and help me safely delete the ones I choose."
+  short_description: "List, delete, restore, and purge local Codex session history"
+  default_prompt: "Use $codex-session-manager to show my local Codex sessions in an indexed table and help me safely delete, restore, or purge conversations I choose."
